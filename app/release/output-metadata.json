@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.radiojobs.app",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 100,
+      "versionName": "1.0.0",
+      "outputFile": "rádio-(1.0.0)-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
